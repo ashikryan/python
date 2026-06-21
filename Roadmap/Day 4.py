@@ -1,5 +1,5 @@
 #---------------------------------   >>  Loops  <<   ------------------------------------------#
-'''
+
 #----> for loop
 
 i = 20 
@@ -39,12 +39,15 @@ for i in range(1,11):
     print(num, "x",i,"=",num*i)
 
 #---->>>>> sum of number <<<<<<<<<------
-'''
+
 total = 0
 
 for i in range(1,6):
     total += i
     print(total)
+
+
+
 
 
 
