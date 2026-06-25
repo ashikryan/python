@@ -39,3 +39,14 @@ values = [1,2,3,4,4,5,5,5,5,5,4,4,3,3,4,4]
 unique = set (values)    
 
 print(unique)   
+
+#___________MINI PROJECT________________#
+#---------------------------------------#
+employee = {
+    "role"  : input("Enter your job role:"),
+    "salary": int(input("Enter your salary")),
+    "mobile": int(input("Enter your obile number"))
+}
+
+print(employee)
+#_________________________________________
